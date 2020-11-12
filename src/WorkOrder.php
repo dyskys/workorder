@@ -1,6 +1,6 @@
 <?php
 
-namespace dw\workorder;
+namespace dww\workorder;
 
 use dw\workorder\Exceptions\WorkOrderException;
 use Ramsey\Uuid\Uuid;
