@@ -1,0 +1,14 @@
+{
+  "name": "dw/workorder-sdk",
+  "description": "workorder-sdk",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.2.0",
+    "ramsey/uuid": "^4.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "dw\\workorder\\": "src/"
+    }
+  }
+}
