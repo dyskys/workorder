@@ -8,7 +8,7 @@
   },
   "autoload": {
     "psr-4": {
-      "dw\\workorder\\": "src/"
+      "dww\\workorder\\": "src/"
     }
   }
 }
